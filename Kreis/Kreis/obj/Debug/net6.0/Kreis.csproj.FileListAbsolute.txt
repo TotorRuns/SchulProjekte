@@ -1,0 +1,15 @@
+C:\Users\Kosarials\Desktop\Projekte\Kreis\Kreis\bin\Debug\net6.0\Kreis.exe
+C:\Users\Kosarials\Desktop\Projekte\Kreis\Kreis\bin\Debug\net6.0\Kreis.deps.json
+C:\Users\Kosarials\Desktop\Projekte\Kreis\Kreis\bin\Debug\net6.0\Kreis.runtimeconfig.json
+C:\Users\Kosarials\Desktop\Projekte\Kreis\Kreis\bin\Debug\net6.0\Kreis.dll
+C:\Users\Kosarials\Desktop\Projekte\Kreis\Kreis\bin\Debug\net6.0\Kreis.pdb
+C:\Users\Kosarials\Desktop\Projekte\Kreis\Kreis\obj\Debug\net6.0\Kreis.csproj.AssemblyReference.cache
+C:\Users\Kosarials\Desktop\Projekte\Kreis\Kreis\obj\Debug\net6.0\Kreis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kosarials\Desktop\Projekte\Kreis\Kreis\obj\Debug\net6.0\Kreis.AssemblyInfoInputs.cache
+C:\Users\Kosarials\Desktop\Projekte\Kreis\Kreis\obj\Debug\net6.0\Kreis.AssemblyInfo.cs
+C:\Users\Kosarials\Desktop\Projekte\Kreis\Kreis\obj\Debug\net6.0\Kreis.csproj.CoreCompileInputs.cache
+C:\Users\Kosarials\Desktop\Projekte\Kreis\Kreis\obj\Debug\net6.0\Kreis.dll
+C:\Users\Kosarials\Desktop\Projekte\Kreis\Kreis\obj\Debug\net6.0\refint\Kreis.dll
+C:\Users\Kosarials\Desktop\Projekte\Kreis\Kreis\obj\Debug\net6.0\Kreis.pdb
+C:\Users\Kosarials\Desktop\Projekte\Kreis\Kreis\obj\Debug\net6.0\Kreis.genruntimeconfig.cache
+C:\Users\Kosarials\Desktop\Projekte\Kreis\Kreis\obj\Debug\net6.0\ref\Kreis.dll

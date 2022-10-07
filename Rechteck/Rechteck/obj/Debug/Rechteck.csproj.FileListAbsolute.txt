@@ -1,0 +1,14 @@
+C:\Users\Kosarials\Desktop\Rechteck\Rechteck\bin\Debug\Rechteck.exe.config
+C:\Users\Kosarials\Desktop\Rechteck\Rechteck\bin\Debug\Rechteck.exe
+C:\Users\Kosarials\Desktop\Rechteck\Rechteck\bin\Debug\Rechteck.pdb
+C:\Users\Kosarials\Desktop\Rechteck\Rechteck\obj\Debug\Rechteck.csprojResolveAssemblyReference.cache
+C:\Users\Kosarials\Desktop\Rechteck\Rechteck\obj\Debug\Rechteck.exe
+C:\Users\Kosarials\Desktop\Rechteck\Rechteck\obj\Debug\Rechteck.pdb
+C:\Users\Kosarials\Desktop\Projekte\Rechteck\Rechteck\bin\Debug\Rechteck.exe.config
+C:\Users\Kosarials\Desktop\Projekte\Rechteck\Rechteck\bin\Debug\Rechteck.exe
+C:\Users\Kosarials\Desktop\Projekte\Rechteck\Rechteck\bin\Debug\Rechteck.pdb
+C:\Users\Kosarials\Desktop\Projekte\Rechteck\Rechteck\obj\Debug\Rechteck.csproj.AssemblyReference.cache
+C:\Users\Kosarials\Desktop\Projekte\Rechteck\Rechteck\obj\Debug\Rechteck.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kosarials\Desktop\Projekte\Rechteck\Rechteck\obj\Debug\Rechteck.csproj.CoreCompileInputs.cache
+C:\Users\Kosarials\Desktop\Projekte\Rechteck\Rechteck\obj\Debug\Rechteck.exe
+C:\Users\Kosarials\Desktop\Projekte\Rechteck\Rechteck\obj\Debug\Rechteck.pdb
